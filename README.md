@@ -1,6 +1,7 @@
 # Lending Club
-> Lending Club Case Study project details
-
+> Lending Club Case Study Analysis
+<font color="blue">Team : Gnanaprakash and Vikas </font>
+Date : 06-09-2023
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -42,7 +43,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [[@Gnana0248](https://github.com/Gnana0248), vikas] - feel free to contact me!
 
 
 <!-- Optional -->
