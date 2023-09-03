@@ -29,9 +29,11 @@ Date : 06-09-2023
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Jupiter Notebook: 7
+- Python: 3.11.3
+- Numpy: 1.24.3
+- Pandas: 1.5.3
+- Seaborn: 0.12.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -43,7 +45,7 @@ Give credit here.
 
 
 ## Contact
-Created by [[@Gnana0248](https://github.com/Gnana0248), vikas] - feel free to contact me!
+Created by [[@Gnana0248](https://github.com/Gnana0248), [@Vikas-6888](https://github.com/Vikas-6888)] - feel free to contact me!
 
 
 <!-- Optional -->
