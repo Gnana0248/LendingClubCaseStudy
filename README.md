@@ -13,16 +13,16 @@ Date : 06-09-2023
 
 ## General Information
 - Project Overview:
-  
-   Consumer finance company specializing in various loans.
-  
-   Aims to reduce credit risk and financial losses.
-  
-   Analyzes historical data to identify loan default indicators.
-  
-   Goals include optimizing lending decisions, enhancing profitability, and ensuring compliance with regulations.
-  
-   Grounded in risk analytics principles to make data-driven decisions.
+
+> Consumer finance company specializing in various loans.
+
+> Aims to reduce credit risk and financial losses.
+
+> Analyzes historical data to identify loan default indicators.
+
+> Goals include optimizing lending decisions, enhancing profitability, and ensuring compliance with regulations.
+
+> Grounded in risk analytics principles to make data-driven decisions.
 
 - The background of this project is rooted in the financial services sector, where a consumer finance company seeks to leverage data analysis and risk analytics to improve its lending practices, reduce credit risk, and enhance overall financial performance while ensuring compliance with regulations.
 
