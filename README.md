@@ -72,10 +72,15 @@ In summary, the business problem this project aims to solve revolves around impr
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Based on the observations following are high impacts:
+
+- Applicant annual income between (4000 - 253264)
+- Higher loan amount with more installment.
+- Interest rate between (13.01 - 16.80) has more impacts on defaulted.
+- Applicant with more experience has high impacts on defaulted.
+- Loan amount for 'Small business, credit card, house' purspose have high impacts on defaulted.
+- High loan amount with applicant in MORTAGE have high impacts on defaulted.
+- Applicant with open_acc & total_acc has more impacts on defaulted.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -86,19 +91,12 @@ In summary, the business problem this project aims to solve revolves around impr
 - Numpy: 1.24.3
 - Pandas: 1.5.3
 - Seaborn: 0.12.2
+- Matplotlib: 3.7.1
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
 Created by [[@Gnana0248](https://github.com/Gnana0248), [@Vikas-6888](https://github.com/Vikas-6888)] - feel free to contact me!
-
 
 <!-- Optional -->
 <!-- ## License -->
