@@ -1,6 +1,6 @@
 # Lending Club
 > Lending Club Case Study Analysis <br>
-Team : Gnanaprakash and Vikas <br>
+Team : Gnanaprakash and Vikas Sharma<br>
 Date : 06-09-2023
 
 ## Table of Contents
